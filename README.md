@@ -6,7 +6,7 @@ Welcome to my learning journey toward becoming a Python + Networking-focused cyb
 ---
 
 ## 📘 Python Basics
-- [ ] Data types, if-else, loops ([W3Schools](https://www.w3schools.com/python/))
+- [x] Data types, if-else, loops ([W3Schools](https://www.w3schools.com/python/))
 - [ ] Functions, lists, dictionaries ([FreeCodeCamp](https://www.freecodecamp.org/news/learn-python-basics-full-course/))
 - [ ] File handling ([Automate the Boring Stuff](https://automatetheboringstuff.com/))
 - [ ] Exception handling ([Try-Except](https://www.w3schools.com/python/python_try_except.asp))
